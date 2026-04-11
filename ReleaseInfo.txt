@@ -3,7 +3,7 @@
     "Name": "Release",
     "Category": "tags",
     "Version": "4.6.0",
-    "Revision": "394"
+    "Revision": "399"
   },
   "Dependencies": [
     {
@@ -28,7 +28,7 @@
       "Name": "AntilatencyBuildUnity",
       "Category": "trunk",
       "Version": null,
-      "Revision": "18"
+      "Revision": "29"
     },
     {
       "Name": "AntilatencyBuildUnrealEngine",
