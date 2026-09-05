@@ -78,7 +78,7 @@
       "Name": "AltEnvironmentRectangle.Library",
       "Category": "tags",
       "Version": "1.1.1",
-      "Revision": "34468"
+      "Revision": "39504"
     },
     {
       "Name": "AntilatencyAltEnvironmentSelector",
@@ -132,7 +132,7 @@
       "Name": "AntilatencyStereoGlasses.Library",
       "Category": "tags",
       "Version": "1.1.2",
-      "Revision": "34446"
+      "Revision": "39574"
     },
     {
       "Name": "AntilatencyStorageClient",
